@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mutez</h1>
-<h3 align="center">Fırat Üniversitesinde Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">Fırat Üniversitesinde Bilgisayar Mühendisliği Öğrencisiyim</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutez-rahal&label=Profile%20views&color=0e75b6&style=flat" alt="mutez-rahal" /> </p>
 
