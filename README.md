@@ -2,8 +2,6 @@
 <h3 align="center">I'm a 3rd year CE Student at Fırat University</h3>
 <h5 align="center">I am a highly motivated and results-oriented third-year Computer Engineering student with a passion for software development.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutez-rahal&label=Profile%20views&color=0e75b6&style=flat" alt="mutez-rahal" /> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 💬 Ask me about **Java ve C#**
