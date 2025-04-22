@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mutez</h1>
 <h3 align="center">I'm a 4th year CE Student at Fırat University</h3>
-<h5 align="center">I am a highly motivated and results-oriented third-year Computer Engineering student with a passion for software development.</h5>
+<h5 align="center">I am a highly motivated and results-oriented fourth-year Computer Engineering student with a passion for software development.</h5>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **AI Models Development**
 
-- 💬 Ask me about **Java ve C#**
+- 💬 Ask me about **Java,ASP.NET, Tensoflow and OpenCV**
 
 - 📫 How to reach me **mutezrahal@gmail.com**
 
