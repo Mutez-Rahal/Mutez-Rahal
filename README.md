@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI Models Development**
 
-- 💬 Ask me about **Java,ASP.NET, Tensoflow and OpenCV**
+- 💬 Ask me about **Java, ASP.NET, Tensoflow and OpenCV**
 
 - 📫 How to reach me **mutezrahal@gmail.com**
 
