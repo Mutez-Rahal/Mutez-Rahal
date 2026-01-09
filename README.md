@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mutez</h1>
-<h3 align="center">I'm a 4th year CE Student at Fırat University</h3>
-<h5 align="center">I am a highly motivated and results-oriented fourth-year Computer Engineering student with a passion for software development.</h5>
+<h1 align="center">Hi , I'm Mutez Rahal</h1>
+<h3 align="center">AI Engineer developing intelligent systems for real-world applications</h3>
 
-- 🔭 I’m currently working on **AI Models Development**
+---
+I am an **AI Engineer** focused on designing, developing, and deploying **intelligent systems**.  
+My experience spans the full AI lifecycle, including data processing, model development, evaluation, and practical deployment.
 
-- 💬 Ask me about **Java, ASP.NET, Tensoflow and OpenCV**
+I focus on building **practical and reliable AI systems**, with an emphasis on transforming ideas into deployable solutions.
 
-- 📫 How to reach me **mutezrahal@gmail.com**
+📄 You can view my CV here: <a href="https://drive.google.com/file/d/10JJf_jemLDc3tflIHRYicoul6gFznihH/view?usp=sharing">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
