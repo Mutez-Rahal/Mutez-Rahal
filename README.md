@@ -69,5 +69,3 @@ I focus on building **practical and reliable AI systems**, with an emphasis on t
 </a>
 
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutez-rahal&" alt="mutez-rahal" /></p>
