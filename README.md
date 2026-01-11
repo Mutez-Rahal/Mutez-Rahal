@@ -67,7 +67,4 @@ I focus on building **practical and reliable AI systems**, with an emphasis on t
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutez-rahal&show_icons=true&locale=en&layout=compact" alt="mutez-rahal" /></p>
