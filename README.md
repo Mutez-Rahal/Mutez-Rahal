@@ -69,3 +69,5 @@ I focus on building **practical and reliable AI systems**, with an emphasis on t
 </a>
 
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutez-rahal&show_icons=true&locale=en&layout=compact" alt="mutez-rahal" /></p>
