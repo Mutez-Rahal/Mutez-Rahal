@@ -7,7 +7,7 @@ My experience spans the full AI lifecycle, including data processing, model deve
 
 I focus on building **practical and reliable AI systems**, with an emphasis on transforming ideas into deployable solutions.
 
-📄 You can view my CV here: <a href="https://drive.google.com/file/d/10JJf_jemLDc3tflIHRYicoul6gFznihH/view?usp=sharing">Click here</a>
+📄 You can view my CV here: <a href="https://drive.google.com/file/d/1fhFKhiCQFihZzNm-c62BhJQrIwhxOB_G/view?usp=sharing">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
